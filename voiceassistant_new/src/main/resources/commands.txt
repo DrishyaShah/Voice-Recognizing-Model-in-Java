@@ -1,0 +1,14 @@
+on kitchen lights
+off kitchen lights
+on bedroom lights
+off pantry lights
+on living room lights
+on hallway lights
+on bathroom lights
+on closet lights
+on pantry lights
+off bedroom lights
+off living room lights
+off hallway lights
+off bathroom lights
+off closet lights

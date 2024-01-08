@@ -1,0 +1,21 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example.voice</groupId>
+  <artifactId>voiceassistant_new</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	  <!-- https://mvnrepository.com/artifact/de.sciss/sphinx4-core -->
+	  <!-- https://mvnrepository.com/artifact/junit/junit -->
+	  <dependency>
+  <groupId>edu.cmu.sphinx</groupId>
+  <artifactId>sphinx4-core</artifactId>
+  <version>5prealpha-SNAPSHOT</version>
+</dependency>
+<dependency>
+  <groupId>edu.cmu.sphinx</groupId>
+  <artifactId>sphinx4-data</artifactId>
+  <version>5prealpha-SNAPSHOT</version>
+</dependency>
+
+  </dependencies>
+</project>
